@@ -1,7 +1,7 @@
 #define DEBUG 0
 #include <SPI.h>
 #include <TFT_eSPI.h>
-#include "/home/atomicpi/Arduino/libraries/TFT_eSPI-master/examples/Smooth Fonts/FLASH_Array/Font_Demo_1_Array/NotoSansBold15.h"
+#include "NotoSansBold15.h"
 TFT_eSPI lcd = TFT_eSPI();
 
 /* Symbolic names for bit rate of CAN message                                */
